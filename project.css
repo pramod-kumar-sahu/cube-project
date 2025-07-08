@@ -709,7 +709,7 @@ body {
   background: url(pexels-artempodrez-6801177\ 1.png) no-repeat center center;
   background-size: cover;
   border-radius: 30px;
-  padding:  100px 600px 100px 80px;
+  padding:  100px 80px 100px 80px;
   text-align: left;
 }
 @media (max-width: 1350px){
@@ -742,6 +742,7 @@ body {
   flex-wrap: wrap;
   gap: 10px;
   margin-bottom: 30px;
+  max-width:380px;
 }
 
 .tag {
@@ -980,7 +981,7 @@ body {
 .why-GTG {
   background-color: white;
   width: 100%;
-  padding: 60px 0;
+  padding: 60px 40px;
 }
 .why-GTG-container{
   width: 100%;
